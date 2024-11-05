@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okojaeki.github.io/DnF/sitemap_index.txt
+Sitemap: https://okojaeki.github.io/Yqh/sitemap_index.txt
+Sitemap: https://okojaeki.github.io/rqj/sitemap_index.txt
+Sitemap: https://okojaeki.github.io/sOB/sitemap_index.txt
